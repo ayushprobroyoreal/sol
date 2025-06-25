@@ -1,3 +1,20 @@
+# v0.0.2 (Wed Jun 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Added deploy.yml file ([@ayushprobroyoreal](https://github.com/ayushprobroyoreal))
+- Added release.yml file ([@ayushprobroyoreal](https://github.com/ayushprobroyoreal))
+- Added deploy.sh file ([@ayushprobroyoreal](https://github.com/ayushprobroyoreal))
+- Added .autorc file ([@ayushprobroyoreal](https://github.com/ayushprobroyoreal))
+- Added amber.yaml secrets file ([@ayushprobroyoreal](https://github.com/ayushprobroyoreal))
+- Added flask quickstart ([@ayushprobroyoreal](https://github.com/ayushprobroyoreal))
+
+#### Authors: 1
+
+- [@ayushprobroyoreal](https://github.com/ayushprobroyoreal)
+
+---
+
 # v0.0.1 (Wed Jun 25 2025)
 
 :tada: This release contains work from new contributors! :tada:
